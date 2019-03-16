@@ -1,0 +1,108 @@
+@charset "utf-8";
+
+	#wrapper{
+	width: 960px;
+	margin: 0 auto;
+	}
+	
+	#left{
+		float: left;
+		width: 475px;
+		padding-bottom: 10px;
+		padding-right: 5px;
+		font-size:26px;
+
+    }
+	#right{
+		float: left;
+		width: 475px;
+		padding-bottom: 10px;
+		padding-right: 5px;
+
+    }
+	#top{
+		font-family: 'Lobster', cursive;
+		text-align:left;
+
+    }
+	#mainnav{
+		width: 100%;
+		margin: 20px 0;
+		
+    }
+	
+	nav a:hover, a:active, a:focus {
+		background-color: #0099FF;
+		color: #FFF;
+	}
+	
+	nav a {
+	width: 20%;
+	float: left;
+	display: block;
+	text-decoration: none;
+	background-color: #223DA9;
+	text-align: center;
+	font-family: Geneva, Arial;
+	color: #FFFFFF;
+	}
+	
+	#foot{
+		text-align:center;
+
+    }
+	
+	body {
+		background-color: #D8FEB4;
+		font-family: 'Mukta Mahee', sans-serif;
+
+	}
+
+	.sides {
+		font-size:42px	
+		font-family: 'Mukta Mahee', sans-serif;
+
+	}
+	
+	#fr {
+		text-align:right;
+		
+	}
+	
+	a {
+		font-size:18px;
+		font-family: 'Mukta Mahee', sans-serif;
+
+	}
+	
+	#banner {
+		width:100%;
+		height:50%;
+	}
+	
+	form {
+		font-size:36px;
+		font-family: 'Mukta Mahee', sans-serif;
+
+		
+	}
+	
+	.sides2 {
+		font-size:28px
+		font-family: 'Mukta Mahee', sans-serif;
+	
+	}
+	
+	.h {
+		text-align:center;
+		font-family: 'Mukta Mahee', sans-serif;
+
+	}
+	
+	.TT {
+		font-size:36px;
+	}
+	
+	p {
+		font-family: 'Mukta Mahee', sans-serif;
+	}
